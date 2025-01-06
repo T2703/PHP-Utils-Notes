@@ -6,7 +6,7 @@
     $db_server = "localhost";
     $db_user = "root";
     $db_pass = "";
-    $db_name = "facebook";
+    $db_name = "";
     $connection = "";
 
     try {
